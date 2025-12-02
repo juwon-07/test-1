@@ -54,8 +54,12 @@ document.write(`현재 시각은 ${display}입니다.`);
 
 소스 입력 끝!
 
+# 링크
 <https://www.naver.com>
 
 [네이버](https://www.naver.com)
 
 [네이버](https://www.naver.com, "클릭하면 네이버 홈페이지로 이동합니다")
+
+# 이미지
+![프로필 이미지](./salad.jpg)
